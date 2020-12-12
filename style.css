@@ -9,10 +9,14 @@
     height: 100vh;
 }
 .icon{
-    width: 5%;
+    width: 7%;
     height: auto;
 }
 .imgnav{
     width: 30%;
 
+}
+
+body{
+    /*background-image: url("fondo.png");*/
 }
