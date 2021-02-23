@@ -1,27 +1,32 @@
-.img{
+.img {
     border-radius: 50%;
-    width: 40%;    
+    width: 40%;
 }
-.center{
+
+.center {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 95vh;
 }
-.icon{
+
+.icon {
     width: 7%;
     height: auto;
 }
-.imgnav{
+
+.imgnav {
     width: 30%;
-
 }
 
-body{
+body {
     /*background-image: url("fondo.png");*/
-    background: rgb(234, 244, 245);             
+    background: rgb(234, 244, 245);
 }
 
-.barra{
+.barra {
     background: crimson;
 }
+
+
+/*New Style*/
