@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
 .fondo {
     background: linear-gradient(to bottom right, #8AF6E6, pink);
     height: 100;
@@ -38,7 +38,7 @@
 }
 
 h1 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Akaya Kanadaka', cursive;
     font-size: 10vw;
 }
 
